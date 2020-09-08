@@ -1,10 +1,12 @@
 {% for api in index.apis %}
+
   {% assign website_url = "none" %}
   {% assign postman_docs = "none" %}
   {% assign postman_run = "none" %}
   {% assign github_url = "none" %}
   {% assign twitter_url = "none" %}
   {% assign rating = 0 %}
+
   {% for property in api.properties %}
     {% if property.type == 'x-website' %}{% assign website_url = property.url %}{% endif %}
     {% if property.type == 'x-postman-documentation' %}{% assign postman_docs = property.url %}{% endif %}
@@ -19,8 +21,7 @@
       <div class="row collection">
         <div class="col-md-7">
            <div class="row collection__meta">
-              {% if api.image != '' %}<img src="{{ api.image }}" width="150" style="padding: 10px;">{% endif %}
-              <div class="col-12 collection__title">{{ api.name }}</div>
+              <div class="col-12 collection__title">{% if api.image != '' %}<img src="{{ api.image }}" width="150" style="padding: 10px;" align="left">{% endif %}{{ api.name }}</div>
               <div class="col-12 collection__description">{{ api.description }}</div>
               <div class="col-12 collection__description"><strong>Resources:</strong> {% for tag in api.tags %}{{ tag }}{% if forloop.last == true %}{% else %}, {% endif %}{% endfor %}</div>
            </div>
