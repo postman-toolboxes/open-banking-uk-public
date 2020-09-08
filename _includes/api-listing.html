@@ -19,6 +19,7 @@
       <div class="row collection">
         <div class="col-md-7">
            <div class="row collection__meta">
+              {% if api.image != '' %}<img src="{{ api.image }}" width="150" style="padding: 10px;">{% endif %}
               <div class="col-12 collection__title">{{ api.name }}</div>
               <div class="col-12 collection__description">{{ api.description }}</div>
               <div class="col-12 collection__description"><strong>Resources:</strong> {% for tag in api.tags %}{{ tag }}{% if forloop.last == true %}{% else %}, {% endif %}{% endfor %}</div>
