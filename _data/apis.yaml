@@ -34,7 +34,7 @@ apis:
         email: info@apievangelist.com
         x-Tweets: apievangelist
 
-  - name: Allied Irish Bank
+  - name: Allied Irish Bank Personal Accounts API
     description: The public personal accounts API for Allied Irish Bank.
     image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
     tags:
@@ -55,7 +55,7 @@ apis:
         email: info@apievangelist.com
         x-Tweets: apievangelist
 
-  - name: Allied Irish Bank
+  - name: Allied Irish Bank Business Accounts API
     description: The public business accounts API for Allied Irish Bank.
     image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
     tags:
@@ -76,7 +76,7 @@ apis:
         email: info@apievangelist.com
         x-Tweets: apievangelist
 
-  - name: Allied Irish Bank
+  - name: Allied Irish Bank Loans API
     description: The public loans API for Allied Irish Bank.
     image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
     tags:
