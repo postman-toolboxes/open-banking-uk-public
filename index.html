@@ -46,52 +46,10 @@ layout: default
 <div class="container-fluid">
    <div class="row blurb text-center">
       <div class="col-md-12">
-         <h2>Thank You To Our Partners For Helping Make This Happen!</h2>
-      </div>
-      <div class="col-md-12">
-        {% for partner in site.data.partners %}
-          <a href="{{ partner.url }}"><img src="{{ partner.image }}" width="25%" style="border: 2px solid #000; background-color:#FFF;"></a>
-        {% endfor %}
-      </div>
-   </div>
-</div>
-
-<div class="container-fluid">
-   <div class="row blurb text-center">
-      <div class="col-md-12">
          <h2>About this {{ site.name }} Toolbox</h2>
          <p class="collection__end_p">This is a toolbox of APIs that runs as a website using GitHub pages, providing a simple, open source, and community driven approach to crowdsourcing and evolving a curated list of APIs, with accompanying documentation and Postman collections to help get developers started in the development of applications.</p>
          <p>You can view a machine readable index of this API toolbox via <a href="{{ site.url }}/apis.json" target="_blank">the projects APIs.json file</a>.</p>
       </div>
       <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}">Join the Conversation on GitHub</a></div>
-   </div>
-</div>
-
-<div class="collection__wrapper">
-   <div class="container">
-
-			<div class="row collection__header text-center">
-         <div class="col-md-12">
-            <h2 class="h1">Stories from the Toolbox</h2>
-        </div>
-      </div>
-
-      <div>
-        {% for post in site.posts limit:4 %}
-          <div class="row collection">
-            <div class="col-md-7">
-               <div class="row collection__meta">
-                  <div class="col-12 collection__title">{{ post.title }} (<span style="font-size: 18px;">{{ post.date | date_to_string }}</span>)</div>
-                  <div class="col-12 collection__description">{{ post.excerpt | strip_html | strip_newlines | truncate: 175 }}</div>
-               </div>
-            </div>
-            <div class="col-md-5 collection_cta">
-              <a class="landing btn btn__secondary-light" href="{{ site.url }}{{ post.url }}">View Post</a>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-      <br><br><br>
-
    </div>
 </div>
