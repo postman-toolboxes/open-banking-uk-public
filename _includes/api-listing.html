@@ -21,9 +21,7 @@
       <div class="row collection">
         <div class="col-md-7">
            <div class="row collection__meta">
-              <div class="col-12 collection__title">{% if api.image != '' %}<img src="{{ api.image }}" width="150" style="padding: 10px; border: 1px solid #000;" align="left">{% endif %}{{ api.name }}</div>
-              <div class="col-12 collection__description">{{ api.description }}</div>
-              <div class="col-12 collection__description"><strong>Resources:</strong> {% for tag in api.tags %}{{ tag }}{% if forloop.last == true %}{% else %}, {% endif %}{% endfor %}</div>
+              <div class="col-12 collection__description">{% if api.image != '' %}<img src="{{ api.image }}" width="150" style="padding: 10px; border: 1px solid #000;" align="left">{% endif %}{{ api.name }}<br>{{ api.description }}<br><strong>Resources:</strong><br>{% for tag in api.tags %}{{ tag }}{% if forloop.last == true %}{% else %}, {% endif %}{% endfor %}</div>
            </div>
         </div>
         <div class="col-md-5 collection_cta">
