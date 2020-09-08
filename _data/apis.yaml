@@ -1,0 +1,1636 @@
+---
+name: UK Bank - Open Banking - Public
+description: This is a single toolbox for working with the public resources available as part of the UK Open Banking. These are all of the resources that do not require authentication, and are using the common UK Open Banking API format.
+image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/open-banking-uk.png
+tags:
+- United Kingdom
+- UK
+- Banking
+- Open Banking
+created: '2020-09-07'
+modified: '2020-09-07'
+url: apis.json
+specificationVersion: '0.14'
+apis:
+
+  - name: Adam & Company Business Accounts
+    description: The public business accounts API for Adam & Company.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/adam-bank.jpeg
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.adambank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Allied Irish Bank
+    description: The public personal accounts API for Allied Irish Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://aibgb.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Allied Irish Bank
+    description: The public business accounts API for Allied Irish Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://aibgb.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Allied Irish Bank
+    description: The public loans API for Allied Irish Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://aibgb.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Ireland ATM Locator API
+    description: The public ATM locator API for Bank of Ireland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.bankofireland.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Ireland Branch Locator API
+    description: The public branch locator API for Bank of Ireland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.bankofireland.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Ireland Personal Accounts API
+    description: The public personal accounts API for Bank of Ireland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.bankofireland.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Ireland Business Accounts API
+    description: The public business accounts API for Bank of Ireland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.bankofireland.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Ireland Loans API
+    description: The public loans API for Bank of Ireland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.bankofireland.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Ireland Commercial Credit Card API
+    description: The public commercial credit card API for Bank of Ireland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.bankofireland.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Scotland ATM Locator API
+    description: The public ATM locator API for Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.bankofscotland.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Scotland Branch Locator API
+    description: The public branch locator API for Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.bankofscotland.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Scotland Personal Accounts API
+    description: The public personal accounts API for Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.bankofscotland.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Scotland Business Accounts API
+    description: The public business accounts API for Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.bankofscotland.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Scotland Loans API
+    description: The public loans API for Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.bankofscotland.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Bank of Scotland Commercial Credit Card API
+    description: The public commercial credit card API for Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.bankofscotland.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Barclays ATM Locator API
+    description: The public ATM locator API for Barclays.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.banking.barclaysus.com/index.html
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Barclays Branch Locator API
+    description: The public branch locator API for Barclays.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.banking.barclaysus.com/index.html
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Barclays Personal Accounts API
+    description: The public personal accounts API for Barclays.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.banking.barclaysus.com/index.html
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Barclays Business Accounts API
+    description: The public business accounts API for Barclays.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.banking.barclaysus.com/index.html
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Barclays Loans API
+    description: The public loans API for Barclays.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.banking.barclaysus.com/index.html
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Barclays Commercial Credit Card API
+    description: The public commercial credit card API for Barclays.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    tags:
+      - Banking
+      - Commercial Credit Cards
+    properties:
+      - type: x-website
+        url: https://www.banking.barclaysus.com/index.html
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Coutts Business Accounts API
+    description: The public business accounts API for Coutts.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/coutts.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.coutts.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Danske Bank ATM Locator API
+    description: The public ATM locator API for Danske Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://danskebank.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Danske Bank Branch Locator API
+    description: The public branch locator API for Danske Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://danskebank.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Danske Bank Personal Accounts API
+    description: The public personal accounts API for Danske Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://danskebank.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Danske Bank Business Accounts API
+    description: The public business accounts API for Danske Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://danskebank.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Danske Bank Loans API
+    description: The public loans API for Danske Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://danskebank.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Esme Loans Loans API
+    description: The public loans API for Esme Loans.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/esme.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://esmeloans.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: First Trust Bank ATM Locator API
+    description: The public ATM locator API for First Trust Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://aibni.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: First Trust Bank Branch Locator API
+    description: The public branch locator API for First Trust Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://aibni.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: First Trust Bank Personal Accounts API
+    description: The public personal accounts API for First Trust Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://aibni.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: First Trust Bank Business Accounts API
+    description: The public business accounts API for First Trust Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://aibni.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: First Trust Bank Loans API
+    description: The public loans API for First Trust Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://aibni.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Halifax ATM Locator API
+    description: The public ATM locator API for Halifax.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/halifax.jpg
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.halifax.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Halifax Branch Locator API
+    description: The public branch locator API for Halifax.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/halifax.jpg
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.halifax.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Halifax Personal Accounts API
+    description: The public personal accounts API for Halifax.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/halifax.jpg
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.halifax.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: HSBC ATM Locator API
+    description: The public ATM locator API for HSBC.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.hsbc.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: HSBC Branch Locator API
+    description: The public branch locator API for HSBC.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.hsbc.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: HSBC Personal Accounts API
+    description: The public personal accounts API for HSBC.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.hsbc.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: HSBC Business Accounts API
+    description: The public business accounts API for HSBC.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.hsbc.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: HSBC Loans API
+    description: The public loans API for HSBC.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.hsbc.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: HSBC Commercial Credit Card API
+    description: The public commercial credit card API for HSBC.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    tags:
+      - Banking
+      - Commercial Credit Cards
+    properties:
+      - type: x-website
+        url: https://www.hsbc.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Lloyds Bank ATM Locator API
+    description: The public ATM locator API for Lloyds Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.lloydsbank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Lloyds Bank Branch Locator API
+    description: The public branch locator API for Lloyds Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.lloydsbank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Lloyds Bank Personal Accounts API
+    description: The public personal accounts API for Lloyds Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.lloydsbank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Lloyds Bank Business Accounts API
+    description: The public business accounts API for Lloyds Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.lloydsbank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Lloyds Bank Loans API
+    description: The public loans API for Lloyds Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.lloydsbank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Lloyds Bank Commercial Credit Card API
+    description: The public commercial credit card API for Lloyds Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    tags:
+      - Banking
+      - Commercial Credit Cards
+    properties:
+      - type: x-website
+        url: https://www.lloydsbank.com/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Nationwide Building Society ATM Locator API
+    description: The public ATM locator API for Nationwide Building Society.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.nationwide.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Nationwide Building Society Branch Locator API
+    description: The public branch locator API for Nationwide Building Society.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.nationwide.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Nationwide Building Society Personal Accounts API
+    description: The public personal accounts API for Nationwide Building Society.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.nationwide.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Nationwide Building Society Business Accounts API
+    description: The public business accounts API for Nationwide Building Society.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.nationwide.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Nationwide Building Society Loans API
+    description: The public loans API for Nationwide Building Society.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.nationwide.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: NatWest ATM Locator API
+    description: The public ATM locator API for NatWest.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://natwest.com
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: NatWest Branch Locator API
+    description: The public branch locator API for NatWest.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://natwest.com
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: NatWest Personal Accounts API
+    description: The public personal accounts API for NatWest.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://natwest.com
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: NatWest Business Accounts API
+    description: The public business accounts API for NatWest.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://natwest.com
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: NatWest Loans API
+    description: The public loans API for NatWest.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://natwest.com
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: NatWest Commercial Credit Card API
+    description: The public commercial credit card API for NatWest.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    tags:
+      - Banking
+      - Commercial Credit Cards
+    properties:
+      - type: x-website
+        url: https://natwest.com
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Royal Bank of Scotland ATM Locator API
+    description: The public ATM locator API for Royal Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://rbs.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Royal Bank of Scotland Branch Locator API
+    description: The public branch locator API for Royal Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://rbs.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Royal Bank of Scotland Personal Accounts API
+    description: The public personal accounts API for Royal Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://rbs.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Royal Bank of Scotland Business Accounts API
+    description: The public business accounts API for Royal Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://rbs.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Royal Bank of Scotland Loans API
+    description: The public loans API for Royal Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://rbs.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Royal Bank of Scotland Commercial Credit Card API
+    description: The public commercial credit card API for Royal Bank of Scotland.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    tags:
+      - Banking
+      - Commercial Credit Cards
+    properties:
+      - type: x-website
+        url: https://rbs.co.uk
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Santander ATM Locator API
+    description: The public ATM locator API for Santander.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://www.santander.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postmanx
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Santander Branch Locator API
+    description: The public branch locator API for Santander.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://www.santander.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Santander Personal Accounts API
+    description: The public personal accounts API for Santander.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://www.santander.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Santander Business Accounts API
+    description: The public business accounts API for Santander.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://www.santander.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Santander Loans API
+    description: The public loans API for Santander.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://www.santander.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Santander Commercial Credit Card API
+    description: The public commercial credit card API for Santander.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    tags:
+      - Banking
+      - Commercial Credit Cards
+    properties:
+      - type: x-website
+        url: https://www.santander.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUn1v
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Ulster Bank ATM Locator API
+    description: The public ATM locator API for Ulster Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    tags:
+      - Banking
+      - ATM
+    properties:
+      - type: x-website
+        url: https://digital.ulsterbank.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
+      - type: x-run-in-postmanx
+        url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Ulster Bank Branch Locator API
+    description: The public branch locator API for Ulster Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    tags:
+      - Banking
+      - Branches
+    properties:
+      - type: x-website
+        url: https://digital.ulsterbank.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiK
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Ulster Bank Personal Accounts API
+    description: The public personal accounts API for Ulster Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    tags:
+      - Banking
+      - Personal Accounts
+    properties:
+      - type: x-website
+        url: https://digital.ulsterbank.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiG
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Ulster Bank Business Accounts API
+    description: The public business accounts API for Ulster Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    tags:
+      - Banking
+      - Business Accounts
+    properties:
+      - type: x-website
+        url: https://digital.ulsterbank.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmZV
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+  - name: Ulster Bank Loans API
+    description: The public loans API for Ulster Bank.
+    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    tags:
+      - Banking
+      - Loans
+    properties:
+      - type: x-website
+        url: https://digital.ulsterbank.co.uk/
+      - type: x-postman-documentation
+        url: https://documenter.getpostman.com/view/35240/TVCiUmiH
+      - type: x-run-in-postman
+        url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-rating
+        x-data:
+          rating: 9
+    contact:
+      - FN: Kin Lane
+        email: info@apievangelist.com
+        x-Tweets: apievangelist
+
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    x-Tweets: apievangelist
