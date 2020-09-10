@@ -1,4 +1,4 @@
-# U.S. 2020 Election Developer Toolbox
-This is a toolbox of API collections, visualizations, and tooling to help make sense of the 2020 election in the United States. Providing a single landing page, documentation, and Postman collections that can be easily run using the Postman platform.
+# Open Banking UK Public APIs
+This is a single toolbox for working with the public resources available as part of the UK Open Banking. These are all of the resources that do not require authentication, and are using the common UK Open Banking API format.
 
-URL: https://postman-toolboxes.github.io/us-2020-elections/
+URL: https://postman-toolboxes.github.io/open-banking-uk-public/
