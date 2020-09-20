@@ -1,7 +1,7 @@
 ---
 name: UK Bank - Open Banking - Public
 description: This is a single toolbox for working with the public resources available as part of the UK Open Banking. These are all of the resources that do not require authentication, and are using the common UK Open Banking API format.
-image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/open-banking-uk.png
+image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/open-banking-uk.png
 tags:
 - United Kingdom
 - UK
@@ -15,7 +15,7 @@ apis:
 
   - name: Adam & Company Business Accounts
     description: The public business accounts API for Adam & Company.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/adam-bank.jpeg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/adam-bank.jpeg
     tags:
       - Banking
       - Business Accounts
@@ -36,7 +36,7 @@ apis:
 
   - name: Allied Irish Bank Personal Accounts API
     description: The public personal accounts API for Allied Irish Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
     tags:
       - Banking
       - Personal Accounts
@@ -57,7 +57,7 @@ apis:
 
   - name: Allied Irish Bank Business Accounts API
     description: The public business accounts API for Allied Irish Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
     tags:
       - Banking
       - Business Accounts
@@ -78,7 +78,7 @@ apis:
 
   - name: Allied Irish Bank Loans API
     description: The public loans API for Allied Irish Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/allied-irish-bank.png
     tags:
       - Banking
       - Loans
@@ -99,7 +99,7 @@ apis:
 
   - name: Bank of Ireland ATM Locator API
     description: The public ATM locator API for Bank of Ireland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
     tags:
       - Banking
       - ATM
@@ -120,7 +120,7 @@ apis:
 
   - name: Bank of Ireland Branch Locator API
     description: The public branch locator API for Bank of Ireland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
     tags:
       - Banking
       - Branches
@@ -141,7 +141,7 @@ apis:
 
   - name: Bank of Ireland Personal Accounts API
     description: The public personal accounts API for Bank of Ireland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
     tags:
       - Banking
       - Personal Accounts
@@ -162,7 +162,7 @@ apis:
 
   - name: Bank of Ireland Business Accounts API
     description: The public business accounts API for Bank of Ireland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
     tags:
       - Banking
       - Business Accounts
@@ -183,7 +183,7 @@ apis:
 
   - name: Bank of Ireland Loans API
     description: The public loans API for Bank of Ireland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
     tags:
       - Banking
       - Loans
@@ -204,7 +204,7 @@ apis:
 
   - name: Bank of Ireland Commercial Credit Card API
     description: The public commercial credit card API for Bank of Ireland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-ireland.png
     tags:
       - Banking
       - Loans
@@ -225,7 +225,7 @@ apis:
 
   - name: Bank of Scotland ATM Locator API
     description: The public ATM locator API for Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
     tags:
       - Banking
       - ATM
@@ -246,7 +246,7 @@ apis:
 
   - name: Bank of Scotland Branch Locator API
     description: The public branch locator API for Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
     tags:
       - Banking
       - Branches
@@ -267,7 +267,7 @@ apis:
 
   - name: Bank of Scotland Personal Accounts API
     description: The public personal accounts API for Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
     tags:
       - Banking
       - Personal Accounts
@@ -288,7 +288,7 @@ apis:
 
   - name: Bank of Scotland Business Accounts API
     description: The public business accounts API for Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
     tags:
       - Banking
       - Business Accounts
@@ -309,7 +309,7 @@ apis:
 
   - name: Bank of Scotland Loans API
     description: The public loans API for Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
     tags:
       - Banking
       - Loans
@@ -330,7 +330,7 @@ apis:
 
   - name: Bank of Scotland Commercial Credit Card API
     description: The public commercial credit card API for Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/bank-of-scotland.png
     tags:
       - Banking
       - Loans
@@ -351,7 +351,7 @@ apis:
 
   - name: Barclays ATM Locator API
     description: The public ATM locator API for Barclays.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/barclays.png
     tags:
       - Banking
       - ATM
@@ -372,7 +372,7 @@ apis:
 
   - name: Barclays Branch Locator API
     description: The public branch locator API for Barclays.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/barclays.png
     tags:
       - Banking
       - Branches
@@ -393,7 +393,7 @@ apis:
 
   - name: Barclays Personal Accounts API
     description: The public personal accounts API for Barclays.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/barclays.png
     tags:
       - Banking
       - Personal Accounts
@@ -414,7 +414,7 @@ apis:
 
   - name: Barclays Business Accounts API
     description: The public business accounts API for Barclays.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/barclays.png
     tags:
       - Banking
       - Business Accounts
@@ -435,7 +435,7 @@ apis:
 
   - name: Barclays Loans API
     description: The public loans API for Barclays.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/barclays.png
     tags:
       - Banking
       - Loans
@@ -456,7 +456,7 @@ apis:
 
   - name: Barclays Commercial Credit Card API
     description: The public commercial credit card API for Barclays.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/barclays.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/barclays.png
     tags:
       - Banking
       - Commercial Credit Cards
@@ -477,7 +477,7 @@ apis:
 
   - name: Coutts Business Accounts API
     description: The public business accounts API for Coutts.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/coutts.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/coutts.png
     tags:
       - Banking
       - Business Accounts
@@ -498,7 +498,7 @@ apis:
 
   - name: Danske Bank ATM Locator API
     description: The public ATM locator API for Danske Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/danske-bank.png
     tags:
       - Banking
       - ATM
@@ -519,7 +519,7 @@ apis:
 
   - name: Danske Bank Branch Locator API
     description: The public branch locator API for Danske Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/danske-bank.png
     tags:
       - Banking
       - Branches
@@ -540,7 +540,7 @@ apis:
 
   - name: Danske Bank Personal Accounts API
     description: The public personal accounts API for Danske Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/danske-bank.png
     tags:
       - Banking
       - Personal Accounts
@@ -561,7 +561,7 @@ apis:
 
   - name: Danske Bank Business Accounts API
     description: The public business accounts API for Danske Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/danske-bank.png
     tags:
       - Banking
       - Business Accounts
@@ -582,7 +582,7 @@ apis:
 
   - name: Danske Bank Loans API
     description: The public loans API for Danske Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/danske-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/danske-bank.png
     tags:
       - Banking
       - Loans
@@ -603,7 +603,7 @@ apis:
 
   - name: Esme Loans Loans API
     description: The public loans API for Esme Loans.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/esme.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/esme.png
     tags:
       - Banking
       - Loans
@@ -624,7 +624,7 @@ apis:
 
   - name: First Trust Bank ATM Locator API
     description: The public ATM locator API for First Trust Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
     tags:
       - Banking
       - ATM
@@ -645,7 +645,7 @@ apis:
 
   - name: First Trust Bank Branch Locator API
     description: The public branch locator API for First Trust Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
     tags:
       - Banking
       - Branches
@@ -666,7 +666,7 @@ apis:
 
   - name: First Trust Bank Personal Accounts API
     description: The public personal accounts API for First Trust Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
     tags:
       - Banking
       - Personal Accounts
@@ -687,7 +687,7 @@ apis:
 
   - name: First Trust Bank Business Accounts API
     description: The public business accounts API for First Trust Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
     tags:
       - Banking
       - Business Accounts
@@ -708,7 +708,7 @@ apis:
 
   - name: First Trust Bank Loans API
     description: The public loans API for First Trust Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/first-trust-bank.jpg
     tags:
       - Banking
       - Loans
@@ -729,7 +729,7 @@ apis:
 
   - name: Halifax ATM Locator API
     description: The public ATM locator API for Halifax.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/halifax.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/halifax.jpg
     tags:
       - Banking
       - ATM
@@ -750,7 +750,7 @@ apis:
 
   - name: Halifax Branch Locator API
     description: The public branch locator API for Halifax.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/halifax.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/halifax.jpg
     tags:
       - Banking
       - Branches
@@ -771,7 +771,7 @@ apis:
 
   - name: Halifax Personal Accounts API
     description: The public personal accounts API for Halifax.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/halifax.jpg
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/halifax.jpg
     tags:
       - Banking
       - Personal Accounts
@@ -792,7 +792,7 @@ apis:
 
   - name: HSBC ATM Locator API
     description: The public ATM locator API for HSBC.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/hsbc.png
     tags:
       - Banking
       - ATM
@@ -813,7 +813,7 @@ apis:
 
   - name: HSBC Branch Locator API
     description: The public branch locator API for HSBC.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/hsbc.png
     tags:
       - Banking
       - Branches
@@ -834,7 +834,7 @@ apis:
 
   - name: HSBC Personal Accounts API
     description: The public personal accounts API for HSBC.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/hsbc.png
     tags:
       - Banking
       - Personal Accounts
@@ -855,7 +855,7 @@ apis:
 
   - name: HSBC Business Accounts API
     description: The public business accounts API for HSBC.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/hsbc.png
     tags:
       - Banking
       - Business Accounts
@@ -876,7 +876,7 @@ apis:
 
   - name: HSBC Loans API
     description: The public loans API for HSBC.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/hsbc.png
     tags:
       - Banking
       - Loans
@@ -897,7 +897,7 @@ apis:
 
   - name: HSBC Commercial Credit Card API
     description: The public commercial credit card API for HSBC.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/hsbc.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/hsbc.png
     tags:
       - Banking
       - Commercial Credit Cards
@@ -918,7 +918,7 @@ apis:
 
   - name: Lloyds Bank ATM Locator API
     description: The public ATM locator API for Lloyds Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
     tags:
       - Banking
       - ATM
@@ -939,7 +939,7 @@ apis:
 
   - name: Lloyds Bank Branch Locator API
     description: The public branch locator API for Lloyds Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
     tags:
       - Banking
       - Branches
@@ -960,7 +960,7 @@ apis:
 
   - name: Lloyds Bank Personal Accounts API
     description: The public personal accounts API for Lloyds Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
     tags:
       - Banking
       - Personal Accounts
@@ -981,7 +981,7 @@ apis:
 
   - name: Lloyds Bank Business Accounts API
     description: The public business accounts API for Lloyds Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
     tags:
       - Banking
       - Business Accounts
@@ -1002,7 +1002,7 @@ apis:
 
   - name: Lloyds Bank Loans API
     description: The public loans API for Lloyds Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
     tags:
       - Banking
       - Loans
@@ -1023,7 +1023,7 @@ apis:
 
   - name: Lloyds Bank Commercial Credit Card API
     description: The public commercial credit card API for Lloyds Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/loyds-bank.png
     tags:
       - Banking
       - Commercial Credit Cards
@@ -1044,7 +1044,7 @@ apis:
 
   - name: Nationwide Building Society ATM Locator API
     description: The public ATM locator API for Nationwide Building Society.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
     tags:
       - Banking
       - ATM
@@ -1065,7 +1065,7 @@ apis:
 
   - name: Nationwide Building Society Branch Locator API
     description: The public branch locator API for Nationwide Building Society.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
     tags:
       - Banking
       - Branches
@@ -1086,7 +1086,7 @@ apis:
 
   - name: Nationwide Building Society Personal Accounts API
     description: The public personal accounts API for Nationwide Building Society.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
     tags:
       - Banking
       - Personal Accounts
@@ -1107,7 +1107,7 @@ apis:
 
   - name: Nationwide Building Society Business Accounts API
     description: The public business accounts API for Nationwide Building Society.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
     tags:
       - Banking
       - Business Accounts
@@ -1128,7 +1128,7 @@ apis:
 
   - name: Nationwide Building Society Loans API
     description: The public loans API for Nationwide Building Society.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/nationwide-building-society.png
     tags:
       - Banking
       - Loans
@@ -1149,7 +1149,7 @@ apis:
 
   - name: NatWest ATM Locator API
     description: The public ATM locator API for NatWest.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/natwest.png
     tags:
       - Banking
       - ATM
@@ -1170,7 +1170,7 @@ apis:
 
   - name: NatWest Branch Locator API
     description: The public branch locator API for NatWest.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/natwest.png
     tags:
       - Banking
       - Branches
@@ -1191,7 +1191,7 @@ apis:
 
   - name: NatWest Personal Accounts API
     description: The public personal accounts API for NatWest.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/natwest.png
     tags:
       - Banking
       - Personal Accounts
@@ -1212,7 +1212,7 @@ apis:
 
   - name: NatWest Business Accounts API
     description: The public business accounts API for NatWest.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/natwest.png
     tags:
       - Banking
       - Business Accounts
@@ -1233,7 +1233,7 @@ apis:
 
   - name: NatWest Loans API
     description: The public loans API for NatWest.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/natwest.png
     tags:
       - Banking
       - Loans
@@ -1254,7 +1254,7 @@ apis:
 
   - name: NatWest Commercial Credit Card API
     description: The public commercial credit card API for NatWest.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/natwest.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/natwest.png
     tags:
       - Banking
       - Commercial Credit Cards
@@ -1275,7 +1275,7 @@ apis:
 
   - name: Royal Bank of Scotland ATM Locator API
     description: The public ATM locator API for Royal Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
     tags:
       - Banking
       - ATM
@@ -1296,7 +1296,7 @@ apis:
 
   - name: Royal Bank of Scotland Branch Locator API
     description: The public branch locator API for Royal Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
     tags:
       - Banking
       - Branches
@@ -1317,7 +1317,7 @@ apis:
 
   - name: Royal Bank of Scotland Personal Accounts API
     description: The public personal accounts API for Royal Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
     tags:
       - Banking
       - Personal Accounts
@@ -1338,7 +1338,7 @@ apis:
 
   - name: Royal Bank of Scotland Business Accounts API
     description: The public business accounts API for Royal Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
     tags:
       - Banking
       - Business Accounts
@@ -1359,7 +1359,7 @@ apis:
 
   - name: Royal Bank of Scotland Loans API
     description: The public loans API for Royal Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
     tags:
       - Banking
       - Loans
@@ -1380,7 +1380,7 @@ apis:
 
   - name: Royal Bank of Scotland Commercial Credit Card API
     description: The public commercial credit card API for Royal Bank of Scotland.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/royal-bank-of-scotland.png
     tags:
       - Banking
       - Commercial Credit Cards
@@ -1401,7 +1401,7 @@ apis:
 
   - name: Santander ATM Locator API
     description: The public ATM locator API for Santander.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/santander.png
     tags:
       - Banking
       - ATM
@@ -1422,7 +1422,7 @@ apis:
 
   - name: Santander Branch Locator API
     description: The public branch locator API for Santander.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/santander.png
     tags:
       - Banking
       - Branches
@@ -1443,7 +1443,7 @@ apis:
 
   - name: Santander Personal Accounts API
     description: The public personal accounts API for Santander.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/santander.png
     tags:
       - Banking
       - Personal Accounts
@@ -1464,7 +1464,7 @@ apis:
 
   - name: Santander Business Accounts API
     description: The public business accounts API for Santander.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/santander.png
     tags:
       - Banking
       - Business Accounts
@@ -1485,7 +1485,7 @@ apis:
 
   - name: Santander Loans API
     description: The public loans API for Santander.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/santander.png
     tags:
       - Banking
       - Loans
@@ -1506,7 +1506,7 @@ apis:
 
   - name: Santander Commercial Credit Card API
     description: The public commercial credit card API for Santander.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/santander.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/santander.png
     tags:
       - Banking
       - Commercial Credit Cards
@@ -1527,7 +1527,7 @@ apis:
 
   - name: Ulster Bank ATM Locator API
     description: The public ATM locator API for Ulster Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
     tags:
       - Banking
       - ATM
@@ -1548,7 +1548,7 @@ apis:
 
   - name: Ulster Bank Branch Locator API
     description: The public branch locator API for Ulster Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
     tags:
       - Banking
       - Branches
@@ -1569,7 +1569,7 @@ apis:
 
   - name: Ulster Bank Personal Accounts API
     description: The public personal accounts API for Ulster Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
     tags:
       - Banking
       - Personal Accounts
@@ -1590,7 +1590,7 @@ apis:
 
   - name: Ulster Bank Business Accounts API
     description: The public business accounts API for Ulster Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
     tags:
       - Banking
       - Business Accounts
@@ -1611,7 +1611,7 @@ apis:
 
   - name: Ulster Bank Loans API
     description: The public loans API for Ulster Bank.
-    image: https://postman-toolboxes.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/uk-banking/ulster-bank.png
     tags:
       - Banking
       - Loans
