@@ -9,7 +9,7 @@ tags:
 - Open Banking
 created: '2020-09-07'
 modified: '2020-09-07'
-url: apis.json
+url: https://postman-toolboxes.github.io/open-banking-uk-public/apis.json
 specificationVersion: '0.14'
 apis:
 
@@ -31,6 +31,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -54,6 +61,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -77,6 +91,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -100,6 +121,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -123,6 +151,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -146,6 +181,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -169,6 +211,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -192,6 +241,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -215,6 +271,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -238,6 +301,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -261,6 +331,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -284,6 +361,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -307,6 +391,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -330,6 +421,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -353,6 +451,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -376,6 +481,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -399,6 +511,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -422,6 +541,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -445,6 +571,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -468,6 +601,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -491,6 +631,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -514,6 +661,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -537,6 +691,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -560,6 +721,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -583,6 +751,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -606,6 +781,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -629,6 +811,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -652,6 +841,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -675,6 +871,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -698,6 +901,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -721,6 +931,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -744,6 +961,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -767,6 +991,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -790,6 +1021,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -813,6 +1051,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -836,6 +1081,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -859,6 +1111,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -882,6 +1141,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -905,6 +1171,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -928,6 +1201,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -951,6 +1231,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -974,6 +1261,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -997,6 +1291,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1020,6 +1321,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1043,6 +1351,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1066,6 +1381,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1089,6 +1411,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1112,6 +1441,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1135,6 +1471,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1158,6 +1501,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1181,6 +1531,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1204,6 +1561,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1227,6 +1591,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1250,6 +1621,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1273,6 +1651,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1296,6 +1681,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1319,6 +1711,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1342,6 +1741,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1365,6 +1771,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1388,6 +1801,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1411,6 +1831,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1434,6 +1861,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1457,6 +1891,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1480,6 +1921,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1503,6 +1951,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1526,6 +1981,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1549,6 +2011,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1572,6 +2041,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1595,6 +2071,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1618,6 +2101,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1641,6 +2131,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1664,6 +2161,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1685,6 +2189,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1708,6 +2219,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1731,6 +2249,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1754,6 +2279,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1777,6 +2309,13 @@ apis:
       - type: x-rating
         x-data:
           rating: 9
+      - type: x-api-expert-casc
+        url: https://www.api.expert/industry/covid19/
+        x-data:
+          casc: 9.10
+          passRate: 99.98%
+          outliers: 1.13%
+          medianLatency: 240 ms
     contact:
       - FN: Kin Lane
         email: info@apievangelist.com
@@ -1784,8 +2323,25 @@ apis:
 
 x-specifications:
 
+  - name: APIs.json
+    description: This toolbox uses an APIs.json file to index the entire set of APIs, and the specifications that define them. Providing a single machine readable index of all the moving parts of this industry toolbox, including the details of each API, but also everything that supports them.
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/apis-json-logo.jpg
+    tags:
+      - APIs.json
+      - Discovery
+    properties:
+
+      - type: x-website
+        url: http://apisyaml.org/
+
+    contact:
+    - FN: Postman
+      email: help@postman.com
+      x-Tweets: getpostman
+
   - name: OpenAPI
     description: Postman leverages the OpenAPI specification as the contract for each API being delivered or consumed, providing a single definition for each API being delivered and put to work in applications and integrations.
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/openapi.png
     tags:
     - OpenAPI
     - Specifications
@@ -1821,14 +2377,36 @@ x-specifications:
 
   - name: JSON Schema
     description: Postman uses JSON Schema to validate JSON objects as part of the API lifecycle, and the request and response for each API being delivered or consumed, as well as part of each OpenAPI contract being managed.
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/json-schema.png
     tags:
     - Schema
     - Specifications
     - JSON Schema
     - Validation
     properties:
-    - type: x-website
-      url: https://json-schema.org/
+
+      - type: x-website
+        url: https://json-schema.org/
+
+      - type: x-json-schema
+        x-name: ATM Locator
+        url: https://postman-toolboxes.github.io/open-banking-uk-public/json-schema/atm-locator.json
+      - type: x-json-schema
+        x-name: Branch Locator
+        url: https://postman-toolboxes.github.io/open-banking-uk-public/json-schema/branch-locator.json
+      - type: x-json-schema
+        x-name: Business Accounts
+        url: https://postman-toolboxes.github.io/open-banking-uk-public/json-schema/business-accounts.json
+      - type: x-json-schema
+        x-name: Commercial Credit Card Account
+        url: httpss://postman-toolboxes.github.io/open-banking-uk-public/json-schema/commercial-credit-card-accounts.json
+      - type: x-json-schema
+        x-name: Loans
+        url: https://posstman-toolboxes.github.io/open-banking-uk-public/json-schema/loans.json
+      - type: x-json-schema
+        x-name: Personal Accounts
+        url: https://postman-toolboxes.github.io/open-banking-uk-public/json-schema/personal-accounts.json
+
     contact:
     - FN: Postman
       email: help@postman.com
@@ -1836,6 +2414,7 @@ x-specifications:
 
   - name: Postman Collections
     description: Postman cocllections provide a machine readable representation of each APIs contracct, providing an executable representation of each API that can be used across the API lifecycle to mock, document, and test APIs.
+    image: https://postman-toolboxes2.s3.amazonaws.com/assets/postman.png
     tags:
       - Schema
       - Specifications
@@ -1845,6 +2424,25 @@ x-specifications:
 
       - type: x-website
         url: https://www.postman.com/collection/
+
+      - type: x-postman-collection-contract-test
+        x-name: ATM Locator
+        url: https://app.getpostman.com/run-collection/35b4c3a5740758afcc71
+      - type: x-postman-collection-contract-test
+        x-name: Branch Locator
+        url: https://app.getpostman.com/run-collection/fb720f27b237621ef445
+      - type: x-postman-collection-contract-test
+        x-name: Business Acccounts
+        url: https://app.getpostman.com/run-collection/5960cd4c5ff87c56e298
+      - type: x-postman-collection-contract-test
+        x-name: Commercial Credit Card Accounts
+        url: https://app.getpostman.com/run-collection/8686102e9211927947ee
+      - type: x-postman-collection-contract-test
+        x-name: Loans
+        url: https://app.getpostman.com/run-collection/2d4ff24bca1ab98cc45e
+      - type: x-postman-collection-contract-test
+        x-name: Personal Accounts
+        url: https://app.getpostman.com/run-collection/23ce5fe584ad7aa96ee2
 
     contact:
     - FN: Postman

@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{% assign index = site.data.json-schema.commercial-credit-card-accounts %}{{ index | jsonify }}

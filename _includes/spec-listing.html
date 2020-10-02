@@ -1,0 +1,55 @@
+{% for spec in index.x-specifications %}
+
+  {% assign website_url = "none" %}
+
+  {% for property in spec.properties %}
+    {% if property.type == 'x-website' %}{% assign website_url = property.url %}{% endif %}
+  {% endfor %}
+
+  <div class="row collection">
+    <div class="col-md-7">
+      <div class="row collection__meta">
+        <div class="col-12 collection__description">{% if spec.image != '' %}<img src="{{ spec.image }}" width="150" style="margin: 10px; border: 1px solid #000; background-color:#FFF;" align="left">{% endif %}<h3>{{ spec.name }}</h3><p>{{ spec.description }}</p></div>
+      </div>
+    </div>
+    <div class="col-md-5 collection_cta" style="padding-top: 45px; padding-right: 20px;">
+      <a href="{{ website_url }}" class="btn btn-outline-dark ts-button">Visit Website</a>
+      <a href="{{ index.url }}" class="btn btn-outline-dark ts-button">Visit APIs.json</a>
+    </div>
+  </div>
+
+  <center>
+  <table width="70%" border="0"s>
+  {% for property in spec.properties %}
+
+      {% if property.type == 'x-openapi' %}
+        <tr>
+          <td width="10"><img src="https://postman-toolboxes2.s3.amazonaws.com/assets/openapi-icon.png" width="75"></td>
+          <td width="70%"><strong>{{ property.x-name }} - Contract</td>
+          <td width="20%" align="center"><a href="{{ property.url }}" class="btn btn-outline-dark ts-button">View OpenAPI</a></td>
+        </tr>
+      {% endif %}
+
+      {% if property.type == 'x-json-schema' %}
+        <tr>
+          <td width="10"><img src="https://postman-toolboxes2.s3.amazonaws.com/assets/json-schema-gear.png" width="75"></td>
+          <td width="70%"><strong>{{ property.x-name }} - Schema</td>
+          <td width="20%" align="center"><a href="{{ property.url }}" class="btn btn-outline-dark ts-button">View JSON Schema</a></td>
+        </tr>
+      {% endif %}
+
+      {% if property.type == 'x-postman-collection-contract-test' %}
+        <tr>
+          <td width="10"><img src="https://postman-toolboxes2.s3.amazonaws.com/assets/contract-tests.png" width="100"></td>
+          <td width="70%"><strong>{{ property.x-name }} - Contract Test</td>
+          <td width="20%" align="center"><a class="btn btn__primary" href="{{ property.url }}" style="padding: 8px;">Run in Postman</a></td>
+        </tr>
+      {% endif %}
+
+  {% endfor %}
+  </table>
+  </center>
+
+
+{% endfor %}
+<br><br>

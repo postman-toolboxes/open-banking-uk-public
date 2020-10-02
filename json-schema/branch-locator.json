@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{% assign index = site.data.json-schema.branch-locator %}{{ index | jsonify }}

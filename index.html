@@ -23,11 +23,38 @@ layout: default
 <div class="collection__wrapper">
    <div class="container">
 
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <a name="featured-collections"></a>
+            <h2 class="h1">Individual Banking APIs</h2>
+            <p>These are the public APIs available for banks in the UK, providing access to the common resources that are available across banks in the UK, as mandated by the government. You can find documentation, Postman collections, and monitoring data for each API below.</p>
+         </div>
+      </div>
+
       <div>
         {% assign index = site.data.apis %}
         {% assign rating_top = 10 %}
         {% assign rating_bottom = 8 %}
         {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <a name="featured-collections"></a>
+            <h2 class="h1">API Specifications</h2>
+            <p>These are the API specifications that are used to define, document, and validate the APIs included within this industry toolbox.</p>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% include spec-listing.html %}
       </div>
 
    </div>
