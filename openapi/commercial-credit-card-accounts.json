@@ -1,0 +1,4 @@
+---
+layout: none
+---
+{% assign index = site.data.openapis.atm-locator %}{{ index | jsonify }}
