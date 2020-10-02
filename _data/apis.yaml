@@ -26,6 +26,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -47,6 +49,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -68,6 +72,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -89,6 +95,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -110,6 +118,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -131,6 +141,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -152,6 +164,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -173,6 +187,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -194,6 +210,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -215,6 +233,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -236,6 +256,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -257,6 +279,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -278,6 +302,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -299,6 +325,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -320,6 +348,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -341,6 +371,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -362,6 +394,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -383,6 +417,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -404,6 +440,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -425,6 +463,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -446,6 +486,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -467,6 +509,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -488,6 +532,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -509,6 +555,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -530,6 +578,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -551,6 +601,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -572,6 +624,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -593,6 +647,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -614,6 +670,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -635,6 +693,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -656,6 +716,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -677,6 +739,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -698,6 +762,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -719,6 +785,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -740,6 +808,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -761,6 +831,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -782,6 +854,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -803,6 +877,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -824,6 +900,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -845,6 +923,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -866,6 +946,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -887,6 +969,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -908,6 +992,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -929,6 +1015,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -950,6 +1038,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -971,6 +1061,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -992,6 +1084,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1013,6 +1107,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1034,6 +1130,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1055,6 +1153,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1076,6 +1176,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1097,6 +1199,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1118,6 +1222,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1139,6 +1245,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1160,6 +1268,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1181,6 +1291,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1202,6 +1314,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1223,6 +1337,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1244,6 +1360,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1265,6 +1383,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1286,6 +1406,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1307,6 +1429,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1328,6 +1452,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1349,6 +1475,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1370,6 +1498,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1391,6 +1521,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1412,6 +1544,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiJ
       - type: x-run-in-postmanx
         url: https://app.getpostman.com/run-collection/35240-d4ea74f6-4e8b-4036-8f69-bd0396f1a3fb-TVCiUmiJ
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1433,6 +1567,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1454,6 +1590,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1475,6 +1613,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1496,6 +1636,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1517,6 +1659,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUn1v
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-4397a1f3-3f85-41e0-8237-45b788278bc6-TVCiUn1v
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1559,6 +1703,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiK
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-1e727dce-816b-4353-b20a-a86b3752761b-TVCiUmiK
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1580,6 +1726,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiG
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-40e6e73e-c27a-49da-94d5-c89998ffcc7e-TVCiUmiG
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1601,6 +1749,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmZV
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-b39e338b-4f6a-49dd-a78d-fc50e5251a1a-TVCiUmZV
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1622,6 +1772,8 @@ apis:
         url: https://documenter.getpostman.com/view/35240/TVCiUmiH
       - type: x-run-in-postman
         url: https://app.getpostman.com/run-collection/35240-fc4dd8fd-169c-49c5-91ab-d9759d6fb8a0-TVCiUmiH
+      - type: x-postman-environment
+        url:
       - type: x-rating
         x-data:
           rating: 9
@@ -1632,34 +1784,72 @@ apis:
 
 x-specifications:
 
-- name: OpenAPI
-  description: Postman leverages the OpenAPI specification as the contract for each API being delivered or consumed, providing a single definition for each API being delivered and put to work in applications and integrations.
-  tags:
-  - OpenAPI
-  - Specifications
-  - HTTP 1.1
-  properties:
-  - type: x-website
-    url: https://www.openapis.org/
-  contact:
-  - FN: Postman
-    email: help@postman.com
-    x-Tweets: getpostman
+  - name: OpenAPI
+    description: Postman leverages the OpenAPI specification as the contract for each API being delivered or consumed, providing a single definition for each API being delivered and put to work in applications and integrations.
+    tags:
+    - OpenAPI
+    - Specifications
+    - HTTP 1.1
+    properties:
 
-- name: JSON Schema
-  description: Postman uses JSON Schema to validate JSON objects as part of the API lifecycle, and the request and response for each API being delivered or consumed, as well as part of each OpenAPI contract being managed.
-  tags:
-  - Schema
-  - Specifications
-  - JSON Schema
-  - Validation
-  properties:
-  - type: x-website
-    url: https://json-schema.org/
-  contact:
-  - FN: Postman
-    email: help@postman.com
-    x-Tweets: getpostman
+    - type: x-website
+      url: https://www.openapis.org/
+
+    - type: x-openapi
+      x-name: ATM Locator
+      url: https://postman-toolboxes.github.io/open-banking-uk-public/openapis/atm-locator.json
+    - type: x-openapi
+      x-name: Branch Locator
+      url: https://postman-toolboxes.github.io/open-banking-uk-public/openapis/branch-locator.json
+    - type: x-openapi
+      x-name: Business Accounts
+      url: https://postman-toolboxes.github.io/open-banking-uk-public/openapis/business-accounts.json
+    - type: x-openapi
+      x-name: Commercial Credit Card Account
+      url: httpss://postman-toolboxes.github.io/open-banking-uk-public/openapis/commercial-credit-card-accounts.json
+    - type: x-openapi
+      x-name: Loans
+      url: https://posstman-toolboxes.github.io/open-banking-uk-public/openapis/loans.json
+    - type: x-openapis
+      x-name: Personal Accounts
+      url: https://postman-toolboxes.github.io/open-banking-uk-public/openapis/personal-accounts.json
+
+    contact:
+    - FN: Postman
+      email: help@postman.com
+      x-Tweets: getpostman
+
+  - name: JSON Schema
+    description: Postman uses JSON Schema to validate JSON objects as part of the API lifecycle, and the request and response for each API being delivered or consumed, as well as part of each OpenAPI contract being managed.
+    tags:
+    - Schema
+    - Specifications
+    - JSON Schema
+    - Validation
+    properties:
+    - type: x-website
+      url: https://json-schema.org/
+    contact:
+    - FN: Postman
+      email: help@postman.com
+      x-Tweets: getpostman
+
+  - name: Postman Collections
+    description: Postman cocllections provide a machine readable representation of each APIs contracct, providing an executable representation of each API that can be used across the API lifecycle to mock, document, and test APIs.
+    tags:
+      - Schema
+      - Specifications
+      - Collections
+      - Postman
+    properties:
+
+      - type: x-website
+        url: https://www.postman.com/collection/
+
+    contact:
+    - FN: Postman
+      email: help@postman.com
+      x-Tweets: getpostman
 
 maintainers:
   - FN: Kin Lane
