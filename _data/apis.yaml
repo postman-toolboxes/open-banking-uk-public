@@ -1630,6 +1630,37 @@ apis:
         email: info@apievangelist.com
         x-Tweets: apievangelist
 
+x-specifications:
+
+- name: OpenAPI
+  description: Postman leverages the OpenAPI specification as the contract for each API being delivered or consumed, providing a single definition for each API being delivered and put to work in applications and integrations.
+  tags:
+  - OpenAPI
+  - Specifications
+  - HTTP 1.1
+  properties:
+  - type: x-website
+    url: https://www.openapis.org/
+  contact:
+  - FN: Postman
+    email: help@postman.com
+    x-Tweets: getpostman
+
+- name: JSON Schema
+  description: Postman uses JSON Schema to validate JSON objects as part of the API lifecycle, and the request and response for each API being delivered or consumed, as well as part of each OpenAPI contract being managed.
+  tags:
+  - Schema
+  - Specifications
+  - JSON Schema
+  - Validation
+  properties:
+  - type: x-website
+    url: https://json-schema.org/
+  contact:
+  - FN: Postman
+    email: help@postman.com
+    x-Tweets: getpostman
+
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
